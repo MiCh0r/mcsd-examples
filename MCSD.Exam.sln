@@ -5,11 +5,13 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MCSD.Exam.ProgramFlow", "MCSD.Exam.ProgramFlow\MCSD.Exam.ProgramFlow.csproj", "{EF3E4A17-0332-4F45-9B08-2182143C26AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_1_Parallel_Invoke", "1_1_Parallel_Invoke\1_1_Parallel_Invoke.csproj", "{57E559C2-133B-4FB2-80B4-AFD2461E0878}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_1_Parallel_Invoke", "1_1_Parallel_Invoke\1_1_Parallel_Invoke.csproj", "{57E559C2-133B-4FB2-80B4-AFD2461E0878}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_2_ParallelForEach", "1_2_ParallelForEach\1_2_ParallelForEach.csproj", "{965318E1-2174-4156-9402-003C67953304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_2_ParallelForEach", "1_2_ParallelForEach\1_2_ParallelForEach.csproj", "{965318E1-2174-4156-9402-003C67953304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_4_Parallel_For_Loop", "1_4_Parallel_For_Loop\1_4_Parallel_For_Loop.csproj", "{7D7D4067-B86C-44E0-8A80-383E432036B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_4_Parallel_For_Loop", "1_4_Parallel_For_Loop\1_4_Parallel_For_Loop.csproj", "{7D7D4067-B86C-44E0-8A80-383E432036B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_14_AES_encryption", "3_14_AES_encryption\3_14_AES_encryption.csproj", "{2763F620-0659-4443-B5EE-34BB4A661DE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7D7D4067-B86C-44E0-8A80-383E432036B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D7D4067-B86C-44E0-8A80-383E432036B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D7D4067-B86C-44E0-8A80-383E432036B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2763F620-0659-4443-B5EE-34BB4A661DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2763F620-0659-4443-B5EE-34BB4A661DE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2763F620-0659-4443-B5EE-34BB4A661DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2763F620-0659-4443-B5EE-34BB4A661DE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
